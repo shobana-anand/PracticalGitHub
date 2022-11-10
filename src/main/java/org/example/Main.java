@@ -6,5 +6,12 @@ public class Main {
         System.out.println ( "Hello world!" );
 
         // Great day today
+
+        System.out.println (" Beautiful Day");
+
+        // beautiful day
+
+
+
     }
 }
