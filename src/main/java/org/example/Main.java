@@ -12,6 +12,10 @@ public class Main {
         // beautiful day
 
         System.out.println (" Ajay is a Smart Man");
+        System.out.println(" i know it worked finaly  !!! ");
+                                            System.out.println(" we figured it out");
+                                            
+                                         
 
         // Ajay Smartie
 
